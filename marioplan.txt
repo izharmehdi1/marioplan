@@ -1,0 +1,12 @@
+npx create-react-app marioplan
+cd marioplan
+npm start
+
+remove unnecessary file e.g (css,logo, change functiuon to class of app.js)
+for routing
+
+Make Necessary folders, subfolders and files of components and project
+
+install react-router-dom
+import it to app.js and enclose the App div in <BrowserRouter> so you can route other page or links without refreshing the whole site
+
